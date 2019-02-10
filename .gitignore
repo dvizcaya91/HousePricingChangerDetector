@@ -1,3 +1,9 @@
 #Ignore Notebook checkpoints
 
 .ipynb_checkpoints/
+
+#Ignore DB credentials
+db_credentials.py
+
+#Ignore Jupytext files
+.idea/
